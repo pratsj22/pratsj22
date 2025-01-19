@@ -14,9 +14,6 @@
 <p align="left"> <a href="https://github.com/pratsj22"><img src="https://skillicons.dev/icons?i=vscode,github,java,python,css,html,js,mongodb,express,react,nodejs,flask,redux,tailwind"> </a> </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratsj22&" alt="pratsj22" /></p>
-
-
 ## 🤝 Let's Connect:
 <p align="left">
 <a href="https://linkedin.com/in/prathmeshjain22" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="prathmeshjain22"></a>
