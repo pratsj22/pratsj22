@@ -11,7 +11,7 @@
 
 ## :hammer_and_wrench: Languages and Tools
 
-<p align="left"> <a href="https://github.com/pratsj22"><img src="https://skillicons.dev/icons?i=vscode,github,java,python,css,html,js,mongodb,express,react,nodejs,flask,redux,tailwind"> </a> </p>
+<p align="left"> <a href="https://github.com/pratsj22"><img src="https://skillicons.dev/icons?i=vscode,github,java,python,css,html,js,mongodb,express,react,nodejs,flask,fastapi,redux,tailwind"/> </a> </p>
 
 
 ## 🤝 Let's Connect:
