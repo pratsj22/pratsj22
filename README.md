@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prathmesh Jain</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A fullstack developer from India</h3>
 
 ### :man_technologist: About Me 
 - 🌱 I’m currently learning **React Native**
