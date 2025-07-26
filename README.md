@@ -17,7 +17,6 @@
 ## 🤝 Let's Connect:
 <p align="left">
 <a href="https://linkedin.com/in/prathmeshjain22" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="prathmeshjain22"></a>
-<a href="https://instagram.com/_prathmeshjain_" target="blank"><img src="https://skillicons.dev/icons?i=instagram" alt="_prathmeshjain_" /></a>
 <a href="https://www.leetcode.com/spider_22" target="blank"><img src="https://cdn3d.iconscout.com/3d/free/thumb/free-leetcode-3d-icon-download-in-png-blend-fbx-gltf-file-formats--leet-code-programming-game-logos-and-brands-pack-icons-9325307.png" alt="spider_22" height="50" width="50" /></a>
 </p>
 
